@@ -15,7 +15,7 @@ struct User {
 struct Person {
     let name = "Валерий"
     let surname = "Дементьев"
-    let company = "ПАО КМЗ"
+    let company = "ПАО Карачаровский механический завод"
     let department = "Руководство"
     let jobTitle = "Заместитель Генерального директора по экономике и финансам"
     let bio = """
